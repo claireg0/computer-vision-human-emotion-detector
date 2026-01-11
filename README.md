@@ -33,7 +33,7 @@ The application runs **entirely locally** using your webcam and does not store o
 python3.11 -m venv .venv
 source .venv/bin/activate
 ```
-2. Install dependencies
+2. Install dependencies 
 ```
 pip install --upgrade pip
 pip install -r requirements.txt
